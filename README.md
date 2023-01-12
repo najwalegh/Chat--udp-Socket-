@@ -25,6 +25,7 @@ And users can receive messages while online and communicate with server side wit
 ### 2. run server
 
 ### 3. run login
+ You can login with :
  1. user 1:
  - username: najwa
  - password: 123
@@ -36,10 +37,16 @@ And users can receive messages while online and communicate with server side wit
  3. user 3:
  - username: zahira
  - password: 123
- 
+ <img width="376" alt="image" src="https://user-images.githubusercontent.com/105787979/212149556-7fe95b54-7f42-40f4-bc03-acfdd2b1fd0c.png">
+ or Register:
+ <img width="376" alt="image" src="https://user-images.githubusercontent.com/105787979/212149983-43ac719c-6dea-4180-af77-57a37151a837.png">
+
  ### 4. Select one of active users to chat with him and click "OK". Or click "Group" to chat with all users. You can refresh the list of active users.
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/105787979/212153711-63c18a2e-7ef3-4c86-9667-30bd9008c812.png">
  
  ### 5. Write your message and press "Enter".
+<img width="724" alt="image" src="https://user-images.githubusercontent.com/105787979/212154824-83e23a6b-cce8-4b51-acf5-ed8b62695eb2.png">
+
  
  ### 6. Click "Logout" if you want to leave the Chat application.
  
